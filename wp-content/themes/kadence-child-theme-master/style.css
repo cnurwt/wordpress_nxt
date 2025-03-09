@@ -1,0 +1,75 @@
+/*
+ Theme Name:   Kadence Child
+ Theme URI:    https://example.com/kadence-child/
+ Description:  Kadence Child Theme
+ Author:       Your Name
+ Author URI:   https://example.com
+ Template:     kadence
+ Version:      1.0.2
+ Tags:         customizable, modern, responsive-layout, gutenberg, header builder, footer builder
+ Text Domain:  kadencechild
+*/
+
+/* Theme customization starts here
+-------------------------------------------------------------- */
+
+/* Header */
+.elementor-widget-container .elementor-heading-title {
+    margin-bottom: 0 !important;
+}
+
+.site-header-row-container-inner {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 3px;
+}
+
+/* Contact Form */
+.elementor-widget-container div.wpforms-container-full.contact_form {
+    margin: 0;
+}
+
+.elementor-widget-container div.wpforms-container-full.contact_form .wpforms-submit-container .Contact_form_btn {
+    background: black;
+    padding: 14px 36px;
+    border-radius: 0;
+    height: auto;
+}
+
+.elementor-widget-container div.wpforms-container-full.contact_form input,.elementor-widget-container div.wpforms-container-full.contact_form textarea{
+    border: none;
+    border-bottom: 1px solid #e5e5e5;
+    border-radius: 0;
+	padding:0;
+}
+
+div.wpforms-container-full.contact_form .wpforms-form .wpforms-field.wpforms-field-select-style-modern .choices .choices__inner{
+    border: none;
+    border-bottom: 1px solid #e5e5e5;
+    border-radius: 0;
+	padding:0;
+}
+
+.elementor-widget-container div.wpforms-container-full.contact_form input:focus{
+    border: none;
+    box-shadow: none;
+	border-bottom: 1px solid black;
+} 
+
+.elementor-widget-container div.wpforms-container-full.contact_form input:focus:invalid{
+    border: none;
+    box-shadow: none;
+	border-bottom: 1px solid black;
+} 
+
+.elementor-widget-container div.wpforms-container-full.contact_form textarea:focus{
+    border: none;
+    box-shadow: none;
+	border-bottom: 1px solid black;
+}
+
+div.wpforms-container-full.contact_form .wpforms-form .wpforms-field.wpforms-field-select-style-modern .choices .choices__inner:focus{
+  	border: none;
+    box-shadow: none;
+	border-bottom: 1px solid black;
+}
+
+

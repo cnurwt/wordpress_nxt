@@ -1,0 +1,280 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTL Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-19 06:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.10; wp-6.5.4\n"
+"X-Domain: mtl-core"
+
+#: widgets/post/post.php:1238 widgets/services/services.php:1256
+msgid ", "
+msgstr ""
+
+#: widgets/post/post.php:351 widgets/services/services.php:351
+msgid "Advanced"
+msgstr ""
+
+#: widgets/post/post.php:293 widgets/services/services.php:293
+msgid "Alignment"
+msgstr ""
+
+#: widgets/post/post.php:377 widgets/services/services.php:377
+msgid "ASC"
+msgstr ""
+
+#: widgets/post/post.php:205 widgets/services/services.php:205
+msgid "Author"
+msgstr ""
+
+#: widgets/post/post.php:524 widgets/post/post.php:569
+#: widgets/post/post.php:934 widgets/post/post.php:983
+#: widgets/services/services.php:524 widgets/services/services.php:569
+#: widgets/services/services.php:934 widgets/services/services.php:983
+msgid "Background Color"
+msgstr ""
+
+#: widgets/post/post.php:537 widgets/post/post.php:582
+#: widgets/post/post.php:946 widgets/post/post.php:995
+#: widgets/services/services.php:537 widgets/services/services.php:582
+#: widgets/services/services.php:946 widgets/services/services.php:995
+msgid "Border Color"
+msgstr ""
+
+#: widgets/post/post.php:479 widgets/post/post.php:625
+#: widgets/post/post.php:1024 widgets/services/services.php:479
+#: widgets/services/services.php:625 widgets/services/services.php:1024
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/post/post.php:466 widgets/services/services.php:466
+msgid "Border Widget"
+msgstr ""
+
+#: widgets/post/post.php:1011 widgets/services/services.php:1011
+msgid "Border Width"
+msgstr ""
+
+#: widgets/post/post.php:457 widgets/services/services.php:457
+msgid "Box"
+msgstr ""
+
+#: widgets/post/post.php:207 widgets/post/post.php:339
+#: widgets/services/services.php:207 widgets/services/services.php:339
+msgid "Categories"
+msgstr ""
+
+#: widgets/post/post.php:301 widgets/services/services.php:301
+msgid "Center"
+msgstr ""
+
+#: widgets/post/post.php:696 widgets/post/post.php:721
+#: widgets/post/post.php:787 widgets/post/post.php:850
+#: widgets/post/post.php:919 widgets/post/post.php:968
+#: widgets/services/services.php:696 widgets/services/services.php:721
+#: widgets/services/services.php:787 widgets/services/services.php:850
+#: widgets/services/services.php:919 widgets/services/services.php:968
+msgid "Color"
+msgstr ""
+
+#: widgets/post/post.php:405 widgets/services/services.php:405
+msgid "Columns margin"
+msgstr ""
+
+#: widgets/post/post.php:208 widgets/services/services.php:208
+msgid "Comments"
+msgstr ""
+
+#: widgets/post/post.php:828 widgets/services/services.php:828
+msgid "Content"
+msgstr ""
+
+#: widgets/post/post.php:206 widgets/post/post.php:363
+#: widgets/services/services.php:206 widgets/services/services.php:363
+msgid "Date"
+msgstr ""
+
+#: widgets/post/post.php:378 widgets/services/services.php:378
+msgid "DESC"
+msgstr ""
+
+#: widgets/post/post.php:232 widgets/services/services.php:232
+msgid "Excerpt"
+msgstr ""
+
+#: widgets/post/post.php:257 widgets/services/services.php:257
+msgid "Excerpt Append"
+msgstr ""
+
+#: widgets/post/post.php:244 widgets/services/services.php:244
+msgid "Excerpt Length"
+msgstr ""
+
+#: widgets/post/post.php:108 widgets/services/services.php:108
+msgid "Grid Columns"
+msgstr ""
+
+#: widgets/post/post.php:142 widgets/post/post.php:167
+#: widgets/post/post.php:235 widgets/post/post.php:272
+#: widgets/services/services.php:142 widgets/services/services.php:167
+#: widgets/services/services.php:235 widgets/services/services.php:272
+msgid "Hide"
+msgstr ""
+
+#: widgets/post/post.php:560 widgets/post/post.php:712
+#: widgets/post/post.php:959 widgets/services/services.php:560
+#: widgets/services/services.php:712 widgets/services/services.php:959
+msgid "Hover"
+msgstr ""
+
+#: widgets/post/post.php:139 widgets/post/post.php:616
+#: widgets/services/services.php:139 widgets/services/services.php:616
+msgid "Image"
+msgstr ""
+
+#: widgets/post/post.php:87 widgets/post/post.php:396
+#: widgets/services/services.php:87 widgets/services/services.php:396
+msgid "Layout"
+msgstr ""
+
+#: widgets/post/post.php:98 widgets/services/services.php:98
+msgid "Layout 1"
+msgstr ""
+
+#: widgets/post/post.php:99 widgets/services/services.php:99
+msgid "Layout 2"
+msgstr ""
+
+#: widgets/post/post.php:100 widgets/services/services.php:100
+msgid "Layout 3"
+msgstr ""
+
+#: widgets/post/post.php:297 widgets/services/services.php:297
+msgid "Left"
+msgstr ""
+
+#: widgets/post/post.php:637 widgets/post/post.php:739
+#: widgets/post/post.php:802 widgets/post/post.php:864
+#: widgets/post/post.php:1058 widgets/services/services.php:637
+#: widgets/services/services.php:739 widgets/services/services.php:802
+#: widgets/services/services.php:864 widgets/services/services.php:1058
+msgid "Margin"
+msgstr ""
+
+#: widgets/post/post.php:765 widgets/services/services.php:765
+msgid "Meta"
+msgstr ""
+
+#: widgets/post/post.php:199 widgets/services/services.php:199
+msgid "Meta Data"
+msgstr ""
+
+#. Author of the plugin
+msgid "MTL"
+msgstr ""
+
+#. Name of the plugin
+msgid "MTL Core"
+msgstr ""
+
+#. Description of the plugin
+msgid "MTL Core plugin for elementor widgets."
+msgstr ""
+
+#: widgets/services/services.php:24
+msgid "MTL Services"
+msgstr ""
+
+#: widgets/post/post.php:24
+msgid "MTL Post"
+msgstr ""
+
+#: widgets/post/post.php:515 widgets/post/post.php:687
+#: widgets/post/post.php:910 widgets/services/services.php:515
+#: widgets/services/services.php:687 widgets/services/services.php:910
+msgid "Normal"
+msgstr ""
+
+#: widgets/post/post.php:373 widgets/services/services.php:373
+msgid "Order"
+msgstr ""
+
+#: widgets/post/post.php:359 widgets/services/services.php:359
+msgid "Order By"
+msgstr ""
+
+#: widgets/post/post.php:500 widgets/post/post.php:1045
+#: widgets/services/services.php:500 widgets/services/services.php:1045
+msgid "Padding"
+msgstr ""
+
+#: widgets/services/services.php:130
+msgid "Servicess Per Page"
+msgstr ""
+
+#: widgets/post/post.php:130
+msgid "Posts Per Page"
+msgstr ""
+
+#: widgets/post/post.php:330 widgets/services/services.php:330
+msgid "Query"
+msgstr ""
+
+#: widgets/post/post.php:365 widgets/services/services.php:365
+msgid "Random"
+msgstr ""
+
+#: widgets/post/post.php:269 widgets/post/post.php:884
+#: widgets/services/services.php:269 widgets/services/services.php:884
+msgid "Read More"
+msgstr ""
+
+#: widgets/post/post.php:281 widgets/services/services.php:281
+msgid "Read More Text"
+msgstr ""
+
+#: widgets/post/post.php:283 widgets/services/services.php:283
+msgid "Read More »"
+msgstr ""
+
+#: widgets/post/post.php:305 widgets/services/services.php:305
+msgid "Right"
+msgstr ""
+
+#: widgets/post/post.php:427 widgets/services/services.php:427
+msgid "Rows margin"
+msgstr ""
+
+#: widgets/post/post.php:217 widgets/services/services.php:217
+msgid "Separator Between"
+msgstr ""
+
+#: widgets/post/post.php:141 widgets/post/post.php:166
+#: widgets/post/post.php:234 widgets/post/post.php:271
+#: widgets/services/services.php:141 widgets/services/services.php:166
+#: widgets/services/services.php:234 widgets/services/services.php:271
+msgid "Show"
+msgstr ""
+
+#: widgets/post/post.php:94 widgets/services/services.php:94
+msgid "Style"
+msgstr ""
+
+#: widgets/post/post.php:164 widgets/post/post.php:364
+#: widgets/post/post.php:664 widgets/services/services.php:164
+#: widgets/services/services.php:364 widgets/services/services.php:664
+msgid "Title"
+msgstr ""
+
+#: widgets/post/post.php:176 widgets/services/services.php:176
+msgid "Title HTML Tag"
+msgstr ""
